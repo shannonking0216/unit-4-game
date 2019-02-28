@@ -1,0 +1,14 @@
+body {
+    background: lightblue;
+}
+
+.random-btn {
+    margin: 40px;
+    font-size: 28px;
+}
+
+.jumbotron {
+    background: lightblue;
+    text-align: center;
+    color: blue;
+} 
