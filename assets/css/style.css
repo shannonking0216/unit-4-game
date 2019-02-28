@@ -10,5 +10,10 @@ body {
 .jumbotron {
     background: lightblue;
     text-align: center;
-    color: blue;
+    color: rgba(17, 175, 101, 0.849);
 } 
+
+#button-container {
+    margin: 40px;
+    font-size: 28px;
+}
